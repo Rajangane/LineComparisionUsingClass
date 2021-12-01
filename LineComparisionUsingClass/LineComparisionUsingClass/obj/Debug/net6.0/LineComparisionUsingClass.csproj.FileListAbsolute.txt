@@ -1,0 +1,15 @@
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\bin\Debug\net6.0\LineComparisionUsingClass.exe
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\bin\Debug\net6.0\LineComparisionUsingClass.deps.json
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\bin\Debug\net6.0\LineComparisionUsingClass.runtimeconfig.json
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\bin\Debug\net6.0\LineComparisionUsingClass.dll
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\bin\Debug\net6.0\ref\LineComparisionUsingClass.dll
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\bin\Debug\net6.0\LineComparisionUsingClass.pdb
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\obj\Debug\net6.0\LineComparisionUsingClass.csproj.AssemblyReference.cache
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\obj\Debug\net6.0\LineComparisionUsingClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\obj\Debug\net6.0\LineComparisionUsingClass.AssemblyInfoInputs.cache
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\obj\Debug\net6.0\LineComparisionUsingClass.AssemblyInfo.cs
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\obj\Debug\net6.0\LineComparisionUsingClass.csproj.CoreCompileInputs.cache
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\obj\Debug\net6.0\LineComparisionUsingClass.dll
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\obj\Debug\net6.0\ref\LineComparisionUsingClass.dll
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\obj\Debug\net6.0\LineComparisionUsingClass.pdb
+D:\bridzlabz\LineCompare_Class\LineComparisionUsingClass\LineComparisionUsingClass\obj\Debug\net6.0\LineComparisionUsingClass.genruntimeconfig.cache
